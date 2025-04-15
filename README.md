@@ -1,7 +1,7 @@
 Project Title & Description
 A simple, responsive portfolio website that showcases my projects, skills, and background. This portfolio highlights my work and allows potential clients or employers to learn more about me.
 
-Features
+Featuresfsfssf
 Responsive Design: Adjusts seamlessly for desktops, tablets, and mobile devices.
 
 Smooth Animations: Subtle transitions and hover effects enhance the user experience.
